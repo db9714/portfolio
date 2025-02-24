@@ -18,7 +18,7 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am Dedicated Senior Architect & Full-Stack Developer with a
+              I am Dedicated Junior Architect & Full-Stack Developer with a
               focus on pioneering solutions in React, Angular, Node.js, and
               MongoDB. Proven expertise in crafting robust and scalable web
               applications. Passionate about pushing the boundaries of
